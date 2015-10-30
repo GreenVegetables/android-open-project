@@ -958,6 +958,12 @@ Activity切换动画，包括渐变、flip、某个位置进入等等
 1. EasyAndroidAnimations  
 针对View的各种动画   
 项目地址：https://github.com/2359media/EasyAndroidAnimations   
+
+1. XDroidAnimation  
+属性动画框架，简单的创建属性动画
+项目地址：https://github.com/robinxdroid/XDroidAnimation
+![](https://github.com/robinxdroid/XDroidAnimation/blob/master/XDroidAnimation.gif) 
+![](https://github.com/robinxdroid/XDroidAnimation/blob/master/XDroidAnimation2.gif) 
    
 1. GlowPadBackport  
 将Android4.2的锁屏界面解锁扩展到Android1.6及1.6+  
